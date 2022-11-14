@@ -2,6 +2,7 @@ ADD_EXECUTABLE(
   design-patterns-c++-trainee-exercises-suite
 
   trainee-dummy-suite.cpp
+  adapter-suite.cpp
 )
 
 TARGET_LINK_LIBRARIES(
