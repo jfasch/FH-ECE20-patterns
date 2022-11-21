@@ -3,6 +3,7 @@ ADD_EXECUTABLE(
 
   trainee-dummy-suite.cpp
   adapter-suite.cpp
+  w1-sensor-suite.cpp
 )
 
 TARGET_LINK_LIBRARIES(
